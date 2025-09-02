@@ -1,0 +1,18 @@
+ h1 {
+    color: blue;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    background-color: lightgray;
+}
+body {
+    margin: 40px;
+    width:max-content;
+    font-family: sans-serif;
+}
+a {
+    text-decoration: solid underline;
+    color : green;
+}
